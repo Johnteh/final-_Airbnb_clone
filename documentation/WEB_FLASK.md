@@ -13,13 +13,22 @@ Application:
 | Python       | ^3.6.4  |
 | Flask        | ^1.0.3  |
 
-## Usage :running:
+## Usage :eyes:
 
 Assuming the above dependencies have been installed, the app server can be started using the following command:
 
 ```
 python3 -m web_flask.hbnb
 ```
+although, note that this only display a web static page.Here we have not yet connected with our api.
+
+<p align="center">
+  <img src="https://github.com/Johnteh/final_Airbnb_clone/blob/master/assets/web%20flask.png"
+       alt="HolbertonBnB logo"
+       width="750"
+  >
+</p>
+
 
 Of course, the server is truly only functional in conjunction with the [HolbertonBnB API](./API.md).
 
