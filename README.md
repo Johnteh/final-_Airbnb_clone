@@ -36,7 +36,7 @@ if you are interested on the previous projects you can as well check out the bel
 3. [AirBnB_clone](https://github.com/Johnteh/AirBnB_clone)
 
 
-This versioning process was a great experience in pair programming and working on unfamiliar, developed codebases. Yet, it was not so great from a portfolio perspective and the want of a central, organized repository where I could show off all the work I coded and learned over the course of this clone.
+This versioning process was a great experience in pair programming and working on unfamiliar, developed codebases. However i created this repository to better organise my code and to better demonstrate my skills and experience that i have gained
 
 This repository is just the above - an organized, cleaned up version of Holbertonbnb. Call it a minified build, if you will.
 
