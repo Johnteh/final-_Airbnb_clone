@@ -22,7 +22,7 @@ HTML5/CSS3/jQuery front-end.
 
 
 
-Holbertonbnb was the central web application of the Holberton School year one curriculum. The project spanned the course of two months and four versions, each of which you can view at the below links:
+This project was a complete web application by A.L.X Africa. The project involved cloning some code bases given to us then pair programm with a peer to come up with required outcome. We created four versions of the project.This repo being the fifth hoping not the last version :sweat_smile:
 
 1. [AirBnB_clone](https://github.com/bdbaraban/AirBnB_clone)
 2. [AirBnB_clone_v2](https://github.com/bdbaraban/AirBnB_clone_v2)
