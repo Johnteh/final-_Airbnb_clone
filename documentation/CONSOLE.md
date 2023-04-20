@@ -6,7 +6,7 @@ the application (achieved by calls on the `storage` object instantiated by [mode
 
 [Source code.](../console.py)
 
-## Usage :running:
+## Usage :eyes:
 
 The HolbertonBnB console can be run both interactively and non-interactively.
 To run the console in non-interactive mode, pipe any command(s) into an execution
