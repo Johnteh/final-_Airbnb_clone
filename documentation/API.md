@@ -27,6 +27,15 @@ Of course, the API is truly only functional in conjunction with [models](./MODEL
 
 I would document all of the HolbertonBnB API endpoints here... but I already have! With [Swagger](https://swagger.io/)!
 
+<p align="center">
+  <img src="https://github.com/Johnteh/final_Airbnb_clone/blob/master/assets/api.png"
+       alt="HolbertonBnB logo"
+       width="750"
+  >
+</p>
+
+
+
 [Check out the entire, deployed documentation of the HolbertonBnB API here.](https://bdbnb.site/apidocs)
 
 ## Author :black_nib:
