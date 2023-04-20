@@ -22,12 +22,11 @@ HTML5/CSS3/jQuery front-end.
 
 
 
-This project was a complete web application by A.L.X Africa. The project involved cloning some code bases given to us then pair programm with a peer to come up with required outcome. We created four versions of the project.This repo being the fifth hoping not the last version :sweat_smile:
+This project was a complete web application by A.L.X Africa. The project involved cloning some code bases given to us then pair programm with a peer to come up with required outcome. We created four versions of the project.This repo being the fifth hoping not the last version :sweat_smile: believe in continuous improvement :smiley:
 
-1. [AirBnB_clone](https://github.com/bdbaraban/AirBnB_clone)
-2. [AirBnB_clone_v2](https://github.com/bdbaraban/AirBnB_clone_v2)
-3. [AirBnB_clone_v3](https://github.com/bdbaraban/AirBnB_clone_v3)
-4. [AirBnB_clone_v4](https://github.com/bdbaraban/AirBnB_clone_v4)
+You can check the last version of the project from the below repo
+
+1. [AirBnB_clone_v4](https://github.com/Johnteh/AirBnB_clone_v4)
 
 The above versions are separate, isolated codebases. While the first was started from scratch, each of versions 2, 3 and 4 involved inheriting and building on repositories started by previous cohorts at Holberton School. Additionally, the work completed for each version involved collaborating and pair programming with a cohort mate - I worked with a different cohort mate for each version.
 
