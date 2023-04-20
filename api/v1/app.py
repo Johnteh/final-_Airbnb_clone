@@ -6,7 +6,7 @@ from flask import Flask, jsonify
 from flask_cors import CORS
 from flasgger import Swagger, swag_from
 from models import storage
-from views import app_views
+from api.v1.views import app_views
 
 # Flask configuration
 app = Flask(__name__)

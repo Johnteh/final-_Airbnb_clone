@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """HolbertonBnB City view."""
-from views import app_views
+from api.v1.views import app_views
 from flask import abort, jsonify, request
 from flasgger.utils import swag_from
 from models import storage
