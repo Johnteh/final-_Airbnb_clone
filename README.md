@@ -106,7 +106,7 @@ In case you missed it - I've documented this entire repository! [Please do check
 
 ## Author :black_nib:
 
-- **Brennan D Baraban** - <[bdbaraban](https://github.com/bdbaraban)>
+- **Brennan D Baraban** - <[@miirijohn08@gmail.com](https://github.com/Johnteh)>
 
 ## License :lock:
 
