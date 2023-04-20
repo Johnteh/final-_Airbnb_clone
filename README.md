@@ -20,9 +20,7 @@ HTML5/CSS3/jQuery front-end.
   >
 </p>
 
-### Brennan, what is this, your fourth Airbnb repo?
 
-Fifth, actually :sweat_smile:.
 
 Holbertonbnb was the central web application of the Holberton School year one curriculum. The project spanned the course of two months and four versions, each of which you can view at the below links:
 
@@ -37,12 +35,11 @@ This versioning process was a great experience in pair programming and working o
 
 This repository is just the above - an organized, cleaned up version of Holbertonbnb. Call it a minified build, if you will.
 
-I started this repository as a duplicate of [AirBnB_clone_v4](https://github.com/bdbaraban/AirBnB_clone_v4), the final version worked on within the scope of Holberton's curriculum. Since then, I have:
+I started this repository as a duplicate of [AirBnB_clone_v4](https://github.com/Johnteh/AirBnB_clone_v4) Since then, I have:
 
 - Cut out all irrelevant code, organizing just that needed to deploy the application.
 - Pieced together each of the front-end, back-end and API with strictly _my_ code, copying in the personal implementations of each that I worked on across all four versions.
-- Spruced up the front-end and wrote new auto-deployment Puppet and Fabric scripts.
-- Wrote thorough, organized documentation for all parts of repo.
+
 
 ### What this repository does include:
 
