@@ -1,4 +1,4 @@
-# HolbertonBnB - API :round_pushpin:
+# HolbertonBnB - API :electric_plug:
 
 The HolbertonBnB API is a complete, RESTful API built in Python Flask.
 
@@ -13,17 +13,17 @@ The HolbertonBnB API is a complete, RESTful API built in Python Flask.
 | flasgger     | ^0.9.2  |
 | Flask-Cors   | ^3.0.8  |
 
-## Usage :running:
+## Usage :eyes:
 
 Assuming the above dependencies have been installed, the API can be started using the following command:
 
 ```
 python3 api.v1.app:app
 ```
-
+Hope you did not try to run the api yet :smiley:
 Of course, the API is truly only functional in conjunction with [models](./MODELS.md).
 
-## Endpoints :light_rail:
+## Endpoints :stars:
 
 I would document all of the HolbertonBnB API endpoints here... but I already have! With [Swagger](https://swagger.io/)!
 
