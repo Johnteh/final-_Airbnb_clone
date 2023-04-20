@@ -28,7 +28,11 @@ You can check the last version of the project from the below repo
 
 1. [AirBnB_clone_v4](https://github.com/Johnteh/AirBnB_clone_v4)
 
-The above versions are separate, isolated codebases. While the first was started from scratch, each of versions 2, 3 and 4 involved inheriting and building on repositories started by previous cohorts at Holberton School. Additionally, the work completed for each version involved collaborating and pair programming with a cohort mate - I worked with a different cohort mate for each version.
+what this is the only version?...we want to see the start.where does all this begin :sweat_smile:
+if you are interested on the previous projects you can as well check out the below versions and maybe have a look on the journey
+[AirBnB_clone_v2](https://github.com/Johnteh/AirBnB_clone_v2)
+[AirBnB_clone](https://github.com/Johnteh/AirBnB_clone)
+
 
 This versioning process was a great experience in pair programming and working on unfamiliar, developed codebases. Yet, it was not so great from a portfolio perspective and the want of a central, organized repository where I could show off all the work I coded and learned over the course of this clone.
 
