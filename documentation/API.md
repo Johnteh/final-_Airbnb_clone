@@ -36,8 +36,8 @@ I would document all of the HolbertonBnB API endpoints here... but I already hav
 
 
 
-[Check out the entire, deployed documentation of the HolbertonBnB API here.](https://bdbnb.site/apidocs)
+[Check out the entire, deployed documentation of the HolbertonBnB API here.](https://miiri.site/apidocs)
 
 ## Author :black_nib:
 
-* __Brennan D Baraban__ - <[bdbaraban](https://github.com/bdbaraban)>
+* __John miiri__ - <[@miirijohn08@gmail.com](https://github.com/Johnteh)>
