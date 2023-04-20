@@ -1,6 +1,6 @@
 # HolbertonBnB - Web Flask :globe_with_meridians:
 
-HTML files for HolbertonBnB are rendered by this application server, built in Python Flask and using Jinja2.
+ Built in Python Flask and using Jinja2. Html files are only rendered using jinja2 an engine of flask 
 
 [Source code.](../web_flask)
 
@@ -18,7 +18,7 @@ Application:
 Assuming the above dependencies have been installed, the app server can be started using the following command:
 
 ```
-python3 web_flask.app:app
+python3 -m web_flask.hbnb
 ```
 
 Of course, the server is truly only functional in conjunction with the [HolbertonBnB API](./API.md).

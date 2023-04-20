@@ -17,7 +17,7 @@ def teardown(exception):
     """Remove the current SQLAlchemy session after each request."""
     storage.close()
 
-
+@app.route("/")
 @app.route("/hbnb", strict_slashes=False)
 def hbnb():
     """Displays the main HBnB filters home page."""
