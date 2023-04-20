@@ -11,7 +11,7 @@ HolbertonBnB supports the following classes:
 * [Review](../models/review.py)
 
 <p align="center">
-  <img src="https://github.com/bdbaraban/HolbertonBnB/blob/master/assets/hbnb-models.png"
+  <img src="https://github.com/Johnteh/final_Airbnb_clone/blob/master/assets/hbnb-models.png"
        alt="HolbertonBnB logo"
        width="750"
   >
@@ -19,11 +19,13 @@ HolbertonBnB supports the following classes:
 
 [Source code.](../models)
 
-## Storage :baggage_claim:
+## Storage :open_file_folder:
 
-The above classes are handled by one of either two abstracted storage engines,
+I have implemented an abstracted engine as [DBStorage](../models/engine/db_storage.py).
+However, the above classes are implemented by the following two storage engines
 depending on the call - [FileStorage](../models/engine/file_storage.py) or
 [DBStorage](../models/engine/db_storage.py).
+
 
 ### FileStorage
 
@@ -55,4 +57,4 @@ respectively.
 
 ## Author :black_nib:
 
-* __Brennan D Baraban__ - <[bdbaraban](https://github.com/bdbaraban)>
+* __John Miiri__ - <[@miirijohn08@gmail.com](https://github.com/Johnteh)>
