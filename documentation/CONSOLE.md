@@ -1,4 +1,4 @@
-# HolbertonBnB - Console :computer:
+# The Console :computer:
 
 The console is a command line interpreter that permits management of the backend
 of HolbertonBnB. It can be used to handle and manipulate all classes utilized by
@@ -224,4 +224,4 @@ ef0fdc863c02'}
 
 ## Author :black_nib:
 
-* __Brennan D Baraban__ - <[bdbaraban](https://github.com/bdbaraban)>
+* __John miiri__ - <[Johnteh](https://github.com/Johnteh)>
