@@ -2,7 +2,7 @@
 <p align="center">An Airbnb clone.</p>
 
 <p align="center">
-  <img src="https://github.com/bdbaraban/holbertonbnb/blob/master/assets/hbnb-logo.png"
+  <img src="https://github.com/Johnteh/final_Airbnb_clone/blob/master/assets/hbnb-logo.png"
        alt="Holbertonbnb logo"
        width="500"
   >
@@ -14,7 +14,7 @@ Holbertonbnb is a complete full-stack web application, integrating a MySQL datab
 HTML5/CSS3/jQuery front-end.
 
 <p align="center">
-  <img src="https://github.com/bdbaraban/holbertonbnb/blob/master/assets/hbnb-stack.png"
+  <img src="https://github.com/Johnteh/final_Airbnb_clone/blob/master/assets/hbnb-stack.png"
        alt="Holbertonbnb logo"
        width="750"
   >
