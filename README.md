@@ -24,14 +24,14 @@ HTML5/CSS3/jQuery front-end.
 
 This project was a complete web application by A.L.X Africa. The project involved cloning some code bases given to us then pair programm with a peer to come up with required outcome. We created four versions of the project.This repo being the fifth hoping not the last version :sweat_smile: believe in continuous improvement :smiley:
 
-You can check the last version of the project from the below repo
+You can check the last version of the project from the repo below
 
 1. [AirBnB_clone_v4](https://github.com/Johnteh/AirBnB_clone_v4)
 
-what this is the only version?...we want to see the start.where does all this begin :sweat_smile:
+what this is the only version?...we want to see the start.where does all this begin :sweat_smile: :sweat_smile:
 if you are interested on the previous projects you can as well check out the below versions and maybe have a look on the journey
-[AirBnB_clone_v2](https://github.com/Johnteh/AirBnB_clone_v2)
-[AirBnB_clone](https://github.com/Johnteh/AirBnB_clone)
+2. [AirBnB_clone_v2](https://github.com/Johnteh/AirBnB_clone_v2)
+3. [AirBnB_clone](https://github.com/Johnteh/AirBnB_clone)
 
 
 This versioning process was a great experience in pair programming and working on unfamiliar, developed codebases. Yet, it was not so great from a portfolio perspective and the want of a central, organized repository where I could show off all the work I coded and learned over the course of this clone.
