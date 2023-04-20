@@ -30,7 +30,9 @@ You can check the last version of the project from the repo below
 
 what this is the only version?...we want to see the start.where does all this begin :sweat_smile: :sweat_smile:
 if you are interested on the previous projects you can as well check out the below versions and maybe have a look on the journey
+
 2. [AirBnB_clone_v2](https://github.com/Johnteh/AirBnB_clone_v2)
+
 3. [AirBnB_clone](https://github.com/Johnteh/AirBnB_clone)
 
 
